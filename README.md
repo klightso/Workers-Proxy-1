@@ -14,6 +14,7 @@
 6. Wikipedia-en的镜像脚本
 7. Wikipedia-zh的镜像脚本
 8. YouTube的镜像脚本
+9. 灵梦御所的镜像脚本
 
 # 随缘更新ing~
 
