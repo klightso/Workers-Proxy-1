@@ -5,7 +5,7 @@ const upstream = 'blog.reimu.net'
 const upstream_path = '/'
 
 // Website you intended to retrieve for users using mobile devices.
-const upstream_mobile = ''
+const upstream_mobile = 'blog.reimu.net'
 
 // Countries and regions where you wish to suspend your service.
 const blocked_region = ['KP', 'SY', 'PK', 'CU']
