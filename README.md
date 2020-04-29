@@ -9,10 +9,11 @@
 1. GitHub的镜像脚本
 2. Google的镜像脚本
 3. Google-scholar的镜像脚本
-4. Nytimes的镜像脚本
-5. Wikipedia-en的镜像脚本
-6. Wikipedia-zh的镜像脚本
-7. YouTube的镜像脚本
+4. Nyaa的镜像脚本
+5. Nytimes的镜像脚本
+6. Wikipedia-en的镜像脚本
+7. Wikipedia-zh的镜像脚本
+8. YouTube的镜像脚本
 
 # 随缘更新ing~
 
