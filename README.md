@@ -13,11 +13,11 @@
 04. Nyaa的镜像脚本
 05. Nytimes的镜像脚本
 06. Pixiv的镜像脚本
-07. Wikipedia-en的镜像脚本
-08. Wikipedia-zh的镜像脚本
-09. YouTube的镜像脚本
-10. 灵梦御所的镜像脚本
-
+07. Sukebei的镜像脚本
+08. Wikipedia-en的镜像脚本
+09. Wikipedia-zh的镜像脚本
+10. YouTube的镜像脚本
+11. 灵梦御所的镜像脚本
 # 随缘更新ing~
 
 # 警告
