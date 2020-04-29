@@ -1,4 +1,4 @@
-# <s>抄袭</s>借鉴整合[此大佬的项目](https://github.com/Berkeley-Reject/Workers-Proxy)
+# <s>抄袭</s>借鉴整合自[此大佬的项目](https://github.com/Berkeley-Reject/Workers-Proxy)
 
 # 装模做样的写个简介
 
