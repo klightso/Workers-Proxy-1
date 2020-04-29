@@ -7,15 +7,16 @@
 直接复制粘贴相关脚本，无需其他额外操作，点击“保存并部署”后生效
 
 目前本库中有：
-1. GitHub的镜像脚本
-2. Google的镜像脚本
-3. Google-scholar的镜像脚本
-4. Nyaa的镜像脚本
-5. Nytimes的镜像脚本
-6. Wikipedia-en的镜像脚本
-7. Wikipedia-zh的镜像脚本
-8. YouTube的镜像脚本
-9. 灵梦御所的镜像脚本
+01. GitHub的镜像脚本
+02. Google的镜像脚本
+03. Google-scholar的镜像脚本
+04. Nyaa的镜像脚本
+05. Nytimes的镜像脚本
+06. Pixiv的镜像脚本
+07. Wikipedia-en的镜像脚本
+08. Wikipedia-zh的镜像脚本
+09. YouTube的镜像脚本
+10. 灵梦御所的镜像脚本
 
 # 随缘更新ing~
 
